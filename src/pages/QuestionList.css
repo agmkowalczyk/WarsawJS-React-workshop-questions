@@ -1,0 +1,13 @@
+ol {
+  width: 70%;
+}
+
+li {
+  margin: 40px 0;  
+}
+
+input {
+  padding: 8px;
+  margin-top: 10px;
+  width: 400px;
+}
